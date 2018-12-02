@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <title>Staff</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
-    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
     <!-- Begin Jekyll SEO tag v2.5.0 -->
 <title>Staff</title>
 <meta name="generator" content="Jekyll v3.8.4" />
@@ -21,6 +20,7 @@
   </head>
   <body>
     <nav>
+  <h3>Gaman</h3>
   
     <a href="/" >Home</a>
   
@@ -30,7 +30,10 @@
   
     <a href="/staff.html" >staff</a>
   
+    <a href="/skra.html" >skrá inn</a>
+  
 </nav>
+
     <h1>Staff</h1>
 
 <ul>
@@ -50,7 +53,7 @@
 <ul>
   {% for author in site.authors %}
     <li>
-      <h2><a href="{{ author.url }}">{{ author.name }}</a></h2>
+      <h2><a href="{{ author.url | relative_url}}">{{ author.name }}</a></h2>
       <h3>{{ author.position }}</h3>
       <p>{{ author.content | markdownify }}</p>
     </li>

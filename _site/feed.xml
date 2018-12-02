@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-02T17:05:38+00:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Kiwifruit</title><link href="http://localhost:4000/2018/08/22/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-22T00:00:00+00:00</published><updated>2018-08-22T00:00:00+00:00</updated><id>http://localhost:4000/2018/08/22/kiwifruit</id><content type="html" xml:base="http://localhost:4000/2018/08/22/kiwifruit.html">&lt;p&gt;Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-02T16:53:58+00:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Tafla</title><link href="http://localhost:4000/2018/12/02/tafla.html" rel="alternate" type="text/html" title="Tafla" /><published>2018-12-02T00:00:00+00:00</published><updated>2018-12-02T00:00:00+00:00</updated><id>http://localhost:4000/2018/12/02/tafla</id><content type="html" xml:base="http://localhost:4000/2018/12/02/tafla.html">&lt;p&gt;hér er tafla sem sýnir einkun sem ég gefi áfangana sem ég tók í haust 2018&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;caption&gt;Statement Summary&lt;/caption&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th scope=&quot;col&quot;&gt;áfangi&lt;/th&gt;
+      &lt;th scope=&quot;col&quot;&gt;skemtilegt (1-10)&lt;/th&gt;
+      &lt;th scope=&quot;col&quot;&gt;erfileika(1-10)&lt;/th&gt;
+      &lt;th scope=&quot;col&quot;&gt;kennari&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td data-label=&quot;áfangi&quot;&gt; forritun&lt;/td&gt;
+      &lt;td data-label=&quot;skemtilegt (1-10)&quot;&gt;8&lt;/td&gt;
+      &lt;td data-label=&quot;erfileika(1-10)&quot;&gt;4&lt;/td&gt;
+      &lt;td data-label=&quot;kennari&quot;&gt;konni&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td scope=&quot;row&quot; data-label=&quot;áfangi&quot;&gt;stærðfræði&lt;/td&gt;
+      &lt;td data-label=&quot;skemtilegt (1-10)&quot;&gt;6&lt;/td&gt;
+      &lt;td data-label=&quot;erfileika(1-10)&quot;&gt;4&lt;/td&gt;
+      &lt;td data-label=&quot;kennari&quot;&gt;daníel&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td scope=&quot;row&quot; data-label=&quot;áfangi&quot;&gt;íslenska&lt;/td&gt;
+      &lt;td data-label=&quot;skemtilegt (1-10)&quot;&gt;0&lt;/td&gt;
+      &lt;td data-label=&quot;erfileika(1-10)&quot;&gt;8&lt;/td&gt;
+      &lt;td data-label=&quot;kennari&quot;&gt;dórathea&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td scope=&quot;row&quot; data-label=&quot;áfangi&quot;&gt;notkun gagnasafna&lt;/td&gt;
+      &lt;td data-label=&quot;skemtilegt (1-10)&quot;&gt;0&lt;/td&gt;
+      &lt;td data-label=&quot;erfileika(1-10)&quot;&gt;0&lt;/td&gt;
+      &lt;td data-label=&quot;kennari&quot;&gt;hallur&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><summary type="html">hér er tafla sem sýnir einkun sem ég gefi áfangana sem ég tók í haust 2018</summary></entry><entry><title type="html">Kiwifruit</title><link href="http://localhost:4000/2018/08/22/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-22T00:00:00+00:00</published><updated>2018-08-22T00:00:00+00:00</updated><id>http://localhost:4000/2018/08/22/kiwifruit</id><content type="html" xml:base="http://localhost:4000/2018/08/22/kiwifruit.html">&lt;p&gt;Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
 berry of several species of woody vines in the genus Actinidia.&lt;/p&gt;
 
 &lt;p&gt;The most common cultivar group of kiwifruit is oval, about the size of a large
@@ -16,8 +54,8 @@ Malus sieversii, is still found today. Apples have been grown for thousands of
 years in Asia and Europe, and were brought to North America by European
 colonists.&lt;/p&gt;
 &lt;div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/apple.jpg&quot; alt=&quot;apple.jpg&quot; class=&quot;img-responsive&quot; /&gt;
-&lt;img src=&quot;/assets/apple.jpg&quot; alt=&quot;apple.jpg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;</content><author><name>jill</name></author><summary type="html">An apple is a sweet, edible fruit produced by an apple tree.</summary></entry><entry><title type="html">Bananas</title><link href="http://localhost:4000/2018/08/20/bananas.html" rel="alternate" type="text/html" title="Bananas" /><published>2018-08-20T00:00:00+00:00</published><updated>2018-08-20T00:00:00+00:00</updated><id>http://localhost:4000/2018/08/20/bananas</id><content type="html" xml:base="http://localhost:4000/2018/08/20/bananas.html">&lt;p&gt;A banana is an edible fruit – botanically a berry – produced by several kinds
+&lt;p&gt;&lt;img src=&quot;/vef2/assets/apple.jpg&quot; alt=&quot;apple.jpg&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;/vef2/assets/apple.jpg&quot; alt=&quot;apple.jpg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;</content><author><name>jill</name></author><summary type="html">An apple is a sweet, edible fruit produced by an apple tree.</summary></entry><entry><title type="html">Bananas</title><link href="http://localhost:4000/2018/08/20/bananas.html" rel="alternate" type="text/html" title="Bananas" /><published>2018-08-20T00:00:00+00:00</published><updated>2018-08-20T00:00:00+00:00</updated><id>http://localhost:4000/2018/08/20/bananas</id><content type="html" xml:base="http://localhost:4000/2018/08/20/bananas.html">&lt;p&gt;A banana is an edible fruit – botanically a berry – produced by several kinds
 of large herbaceous flowering plants in the genus Musa.&lt;/p&gt;
 
 &lt;p&gt;In some countries, bananas used for cooking may be called “plantains”,
