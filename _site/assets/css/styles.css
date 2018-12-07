@@ -1,6 +1,63 @@
 .current {
   color: green; }
 
+@keyframes example {
+  50% {
+    background-color: red;
+    left: 200px;
+    top: 200px; }
+  75% {
+    background-color: green;
+    left: 0px;
+    top: 200px; }
+  100% {
+    background-color: yellow;
+    left: 0px;
+    top: 0px; } }
+.animationkassi {
+  float: right;
+  width: 200px;
+  height: 400px;
+  position: relative;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 4s; }
+
+.kassi {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  transition: background-color 1s, transform 6s; }
+
+.kassi:hover {
+  background-color: green;
+  transform: rotate(3600deg) scale(2, 3); }
+
+a {
+  color: blue; }
+
+.nav_links {
+  position: fixed;
+  top: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: black;
+  text-align: center; }
+
+.nav_list {
+  display: inline;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: 0.5s; }
+
+.nav_list:hover {
+  background-color: grey;
+  color: white;
+  padding: 8px 16px; }
+
 img {
   width: 540px;
   height: auto; }
@@ -73,7 +130,10 @@ table th {
   table td:last-child {
     border-bottom: 0; } }
 form.form-example {
-  display: table; }
+  display: table;
+  border-spacing: 14px;
+  border-style: inset;
+  background-color: lightgray; }
 
 div.form-example {
   display: table-row; }
@@ -84,3 +144,6 @@ label, input {
 
 label {
   padding-right: 10px; }
+
+fieldset {
+  background-color: gray; }

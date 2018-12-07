@@ -1,6 +1,5 @@
-<nav>
-  <h3>Gaman</h3>
+<ul class="nav_links">
   {% for item in site.data.navigation %}
-    <a href="{{ item.link | relative_url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+    <li class="nav_list"><a href="{{ item.link | relative_url }}"{% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li>
   {% endfor %}
-</nav>
+</ul>

@@ -15,20 +15,19 @@
 
   </head>
   <body>
-    <nav>
-  <h3>Gaman</h3>
+    <ul class="nav_links">
   
-    <a href="/" >Home</a>
+    <li class="nav_list"><a href="/">Home</a></li>
   
-    <a href="/about.html" >About</a>
+    <li class="nav_list"><a href="/about.html">About</a></li>
   
-    <a href="/blog.html" >Blog</a>
+    <li class="nav_list"><a href="/blog.html">Blog</a></li>
   
-    <a href="/staff.html" >staff</a>
+    <li class="nav_list"><a href="/staff.html">staff</a></li>
   
-    <a href="/skra.html" >skrá inn</a>
+    <li class="nav_list"><a href="/skra.html">skrá inn</a></li>
   
-</nav>
+</ul>
 
     <form action="" method="get" class="form-example">
   <div class="form-example">
@@ -37,15 +36,35 @@
   </div>
   <div class="form-example">
     <label for="símanúmer">símanúmer: </label>
-    <input type="phonenumber" name="simanumer" id="simanumer" required="" />
+    <input type="number" name="number" id="number" required="" />
   </div>
   <div class="form-example">
     <label for="email">tölvupóst: </label>
     <input type="email" name="email" id="email" required="" />
   </div>
+  <div>
+    hvaða dagur er í dag?
+  <select name="dagar">
+    <option value="sunnudagur" selected="">sunnudagur</option>
+    <option value="mánudagur">mánudagur</option>
+    <option value="þriðjudagur">þriðjudagur</option>
+    <option value="miðvikudagur">miðvikudagur</option>
+    <option value="fimtudagur">fimtudagur</option>
+    <option value="föstudagur">föstudagur</option>
+    <option value="laugardagur">laugardagur</option>
+    
+
+  </select>
+  </div>
+  <fieldset>
+    <legend>click click</legend>
+    <input type="radio" name="radio" id="radio" />
+    <label for="radio">clickaðu hérna</label>
+  </fieldset>
   <div class="form-example">
     <input type="submit" value="skrá inn!" />
   </div>
+
 </form>
 
   </body>
